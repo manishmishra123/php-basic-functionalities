@@ -29,27 +29,27 @@ $type = 'checkPrimenumber';
 /*parameters provided in different kind of functions*/
 
 /*parameters for sorting array*/
-$array=array(1,87,32,98765,11,323);
+// $array=array(1,87,32,98765,11,323);
 
-/*parameters for fibonacci series*/
-$fibonacciCount =10;
-$fibonacciFirstNumber =0;
-$fibonacciSecondNumber =1;
+// /*parameters for fibonacci series*/
+// $fibonacciCount =10;
+// $fibonacciFirstNumber =0;
+// $fibonacciSecondNumber =1;
 
-/*parameters for palindrome*/
-$string = 'testingpalindrome';
+// /*parameters for palindrome*/
+// $string = 'testingpalindrome';
 
-/*parameters for factorial*/
-$factorialnumber = 5;
+// parameters for factorial
+// $factorialnumber = 5;
 
-/*parameters for calculator
- *
- * $functionCheck can be add,substract,divide,multiply
- *
- */
-$functionProvided = 'divide';
-$functionFirstNumber = 10;
-$functionSecondNumber = 20;
+// /*parameters for calculator
+//  *
+//  * $functionCheck can be add,substract,divide,multiply
+//  *
+//  */
+// $functionProvided = 'divide';
+// $functionFirstNumber = 10;
+// $functionSecondNumber = 20;
 
 /*parameters for primenumber*/
 $checkPrimenumber = 17;

@@ -18,6 +18,7 @@ Basic Functions in php
 ## Running the tests
 
   1.Name the function in $type.
+  
   2.Then provide the parameter & uncomment it with the number you wanted.
 
 ## Versioning
